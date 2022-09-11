@@ -1,0 +1,34 @@
+*{
+    color: dimgrey;
+}
+a{
+    color: darkblue;
+}
+h1{
+    color: darkslateblue;
+}
+h2{
+    color:indigo;
+}
+.top p {
+    color: brown;
+}
+.top p mark{
+    color: blue;
+}
+.text ol li{
+    color: red ;
+}
+.text ul li{
+    color:chocolate
+}
+.tak,
+.ni{
+    color: darkmagenta;
+}
+#paragraph8 p{
+    color: crimson;
+}
+#paragraph9 *{
+    color: cornflowerblue;
+}
